@@ -1,1 +1,9 @@
-**/.DS_Store
+.DS_Store
+**/TeacherSols/**
+**/**/TeacherSols/**
+**/**/**/TeacherSols/**
+**/Slides*.pdf
+**/**/Slides*.pdf
+**/WB_Notes*.pdf
+**/**/WB_Notes*.pdf
+**/**/ReferenceSlides*/**
